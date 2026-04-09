@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Abstract Class
 template <class T>
 class QueueADT {
 public:
